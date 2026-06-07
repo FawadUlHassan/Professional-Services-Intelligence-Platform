@@ -1,0 +1,11 @@
+pandas
+openpyxl
+numpy
+jupyter
+ipykernel
+sqlalchemy
+psycopg2-binary
+python-dotenv
+gspread
+google-auth
+great-expectations
